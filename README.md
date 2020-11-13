@@ -2,7 +2,7 @@
 
 This is my first API testing project. It was made in Postman using [Chai Assertion Library](https://www.chaijs.com/).
 
-## Project info
+## Test API
 
 Project Skeleton was made by Daniel Avellaneda. Find it [here](https://github.com/davellanedam/vue-skeleton-mvp), where you can see more information about it.
 
